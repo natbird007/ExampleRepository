@@ -363,6 +363,106 @@ MonoBehaviour:
   m_BeforeTransparentBundles: []
   m_BeforeStackBundles: []
   m_AfterStackBundles: []
+--- !u!1001 &650499367
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4803568479067602, guid: 230113750f558324d8f66daa55d17631, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 1.0973113
+      objectReference: {fileID: 0}
+    - target: {fileID: 4803568479067602, guid: 230113750f558324d8f66daa55d17631, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.055763245
+      objectReference: {fileID: 0}
+    - target: {fileID: 4803568479067602, guid: 230113750f558324d8f66daa55d17631, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -2.3595595
+      objectReference: {fileID: 0}
+    - target: {fileID: 4803568479067602, guid: 230113750f558324d8f66daa55d17631, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4803568479067602, guid: 230113750f558324d8f66daa55d17631, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.39854357
+      objectReference: {fileID: 0}
+    - target: {fileID: 4803568479067602, guid: 230113750f558324d8f66daa55d17631, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4803568479067602, guid: 230113750f558324d8f66daa55d17631, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.9171494
+      objectReference: {fileID: 0}
+    - target: {fileID: 4803568479067602, guid: 230113750f558324d8f66daa55d17631, type: 2}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1013317124848848, guid: 230113750f558324d8f66daa55d17631, type: 2}
+      propertyPath: m_Name
+      value: SetDressing_NBurke (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4803568479067602, guid: 230113750f558324d8f66daa55d17631, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -46.974003
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 230113750f558324d8f66daa55d17631, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!1001 &1017857435
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4803568479067602, guid: 230113750f558324d8f66daa55d17631, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 4.14
+      objectReference: {fileID: 0}
+    - target: {fileID: 4803568479067602, guid: 230113750f558324d8f66daa55d17631, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.055763245
+      objectReference: {fileID: 0}
+    - target: {fileID: 4803568479067602, guid: 230113750f558324d8f66daa55d17631, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 3.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 4803568479067602, guid: 230113750f558324d8f66daa55d17631, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4803568479067602, guid: 230113750f558324d8f66daa55d17631, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0.8781611
+      objectReference: {fileID: 0}
+    - target: {fileID: 4803568479067602, guid: 230113750f558324d8f66daa55d17631, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4803568479067602, guid: 230113750f558324d8f66daa55d17631, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.47836512
+      objectReference: {fileID: 0}
+    - target: {fileID: 4803568479067602, guid: 230113750f558324d8f66daa55d17631, type: 2}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1013317124848848, guid: 230113750f558324d8f66daa55d17631, type: 2}
+      propertyPath: m_Name
+      value: SetDressing_NBurke (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4803568479067602, guid: 230113750f558324d8f66daa55d17631, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 122.843
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 230113750f558324d8f66daa55d17631, type: 2}
+  m_IsPrefabAsset: 0
 --- !u!1001 &1099337492
 Prefab:
   m_ObjectHideFlags: 0
